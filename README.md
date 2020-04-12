@@ -1,6 +1,6 @@
 # GameOfLife
 
-Space bar to pause.
+Spacebar to pause.
 </br> Click on a square to spawn cell. </br>
 
 
